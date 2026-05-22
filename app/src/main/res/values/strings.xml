@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flue</string>
+    <string name="shortcut_settings">桌面设置</string>
+    <string name="settings_title">桌面设置</string>
+    <string name="internal_watchface_config_title">内置表盘设置</string>
+    <string name="flue_accessibility_label">Flue 辅助控制</string>
+    <string name="flue_accessibility_description">该权限仅用于控制双击息屏与打开电源选项。Flue并不联网，不会窃取用户任何信息。</string>
+</resources>
