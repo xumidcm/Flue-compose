@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flue</string>
+    <string name="shortcut_settings">桌面设置</string>
+    <string name="settings_title">桌面设置</string>
+    <string name="internal_watchface_config_title">内置表盘设置</string>
+</resources>

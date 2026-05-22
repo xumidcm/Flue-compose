@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="settings"
+        android:enabled="true"
+        android:icon="@mipmap/ic_settings_launcher"
+        android:shortcutShortLabel="@string/shortcut_settings"
+        android:shortcutLongLabel="@string/shortcut_settings">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetPackage="com.flue.launcher"
+            android:targetClass="com.flue.launcher.SettingsActivity" />
+    </shortcut>
+</shortcuts>
